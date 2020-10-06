@@ -12,6 +12,6 @@
 }
 
 .footer .col-md-4 ul li:hover{
-    background-color: blue;
+    background-color: rgb(255, 255, 255);
     width: 300px;
 }
